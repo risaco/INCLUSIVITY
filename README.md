@@ -1,2 +1,2 @@
-# convo-to-connect
-Slides for tech talk titled Networking Your Way to Your Next Job
+# Inclusive Diversity - Do You Want to Build a Bracelet
+Slides for tech talk titled Inclusive Diversity
