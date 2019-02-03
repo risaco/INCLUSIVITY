@@ -54,6 +54,10 @@
   top: 25%;
   left: 35%; }
 
+.reveal .decor {
+  color: #13DAEC;
+}
+
 #me .warning {
   margin-top: 2em;
   display: flex;
