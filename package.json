@@ -1,5 +1,5 @@
 {
-  "name": "InclusiveDiversity",
+  "name": "INCLUSIVITY",
   "version": "3.7.0",
   "description": "Tech talk slides for Inclusive Diversity: Do You Want to Build a Bracelet",
   "main": "js/reveal.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/risaco/InclusiveDiversity"
+    "url": "git://github.com/risaco/INCLUSIVITY"
   },
   "engines": {
     "node": ">=4.0.0"
