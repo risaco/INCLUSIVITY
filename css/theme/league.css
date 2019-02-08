@@ -58,6 +58,22 @@
   color: #13DAEC;
 }
 
+.reveal .decor-1 {
+  color: #13DAEC;
+  font-weight: bold;
+}
+
+.reveal .decor-2 {
+  color: #13DAEC;
+  font-style: italic;
+}
+
+.reveal .decor-3 {
+  color: #13DAEC;
+  font-weight: bold;
+  font-style: italic;
+}
+
 #me .warning {
   margin-top: 2em;
   display: flex;
